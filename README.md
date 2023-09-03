@@ -1,18 +1,13 @@
-<h1 align="center"> Cartão de Visitas Digital </h1>
+<h1 align="center"> Business Card </h1>
 
-## Sobre o projeto 💭
-O cartão de visitas digital foi meu primeiro projeto nessa área, foi um desafio e tanto, aprendi a utilizar o Git, Github e Figma.</br>
-https://github.com/analudms/FirstProject.git 
+# Sobre o projeto 💭
+O cartão de visitas digital é meu primeiro projeto nessa área, foi um desafio e tanto, aprendi a utilizar o Git, Github e Figma.</br>
+
+## Como acessar o projeto? 🤔
+
+Basta clicar [AQUI](https://analudms.github.io/FirstProject/) que você será direcionado!
 
 ## Apresentação 👀
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br>
 
 <p align="center">
   <img alt="Projeto Cartão" src="./assets/formgit.PNG" width="100%">
