@@ -1,8 +1,10 @@
-<h1 align="center"> Cartão de Visitas - Aula Rocketseat </h1>
+<h1 align="center"> Cartão de Visitas Digital </h1>
 
-<p align="center">
-Criação do meu primeiro cartão de visitas digital.</p>
+## Sobre o projeto 💭
+O cartão de visitas digital foi meu primeiro projeto nessa área, foi um desafio e tanto, aprendi a utilizar o Git, Github e Figma.</br>
+https://github.com/analudms/FirstProject.git 
 
+## Apresentação 👀
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,39 +12,28 @@ Criação do meu primeiro cartão de visitas digital.</p>
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="Projeto Cartão" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Cartão" src="./assets/formgit.PNG" width="100%">
 </p>
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+## Tecnologias 💻
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
-
-O projeto consiste em um cartão de visitas online.
-
-## 🔖 Layout
+## Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3M9OT7oaq5ZTEbUCE91O5J/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-513&mode=design&t=GGDYN4Na90rmsqmg-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 🔖 Licença
+# Inspiração 💡
 
-Esse projeto está sob a licença MIT.
+Projeto feito a partir de uma vídeo aula gratuita da Rocketseat 💜.</br>
+https://app.rocketseat.com.br/discover
 
----
+# Autor 👩🏻
 
-Feito com ♥ by Ana Luiza instruida by Rocketseat [Participe da comunidade!](https://discord.gg/rocketseat)
-
-
+Ana Luiza de Melo Soares. </br>
+https://www.linkedin.com/in/ana-luiza-melo-8b94181b3/
