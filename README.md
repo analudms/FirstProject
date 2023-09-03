@@ -19,10 +19,10 @@ https://github.com/analudms/FirstProject.git
 </p>
 
 ## Tecnologias 💻
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- HTML e CSS.
+- JavaScript.
+- Git e Github.
+- Figma.
 
 ## Layout
 
